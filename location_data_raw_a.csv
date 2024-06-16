@@ -1,0 +1,24 @@
+﻿Location,Depth,Clay (%),Silt (%),Sand (%),Gravels (%),D10,D30,D60,CU,CC,1D inverted resistivity,Lab. Resistivity  (ρa),Moisture content (%),Soil Classification
+UTP Perak,0.5,6.91,2.61,83.88,6.6,0.065,0.154,0.32,4.92,1.14,33.71,436.76,14.39,SP-SC
+"Pinji Perdana, Perak",0.5,34.53,2.41,60.56,0,0,0,0.25,Nan,Nan,635.8,2124.8,21.06,SC
+"Sg. Koyan, Pahang",0.5,11.36,9.47,79.17,0,0.003,0.02,0.27,90,0.49,505.1,1191.01,19.57,SM
+"Pudu Ulu, Kuala Lumpur",0.5,26.63,23.47,49.8,0,0.001,0.004,0.19,190,0.08,35.64,10.74,25.69,MH
+"Shah Alam, Selangor",0.5,37,32,31,0,0,0,0.03,Nan,Nan,169.8,203.75,38.52,ML
+"Puncak Perdana, Selangor",0.5,38,9.62,52.38,0,0,0,0.28,Nan,Nan,2204.1,2059.67,19.98,Nan
+"Hutan Melintang, Perak",0.5,48,25.88,26.12,0,0,0,0.01,Nan,Nan,43.59,162.49,39.22,Nan
+"Kota Kuala Muda, Kedah",0.5,15,29,56,0,0.001,0.014,0.7,583.33,0.23,11.88,5.48,24.13,Nan
+"Kg. Morten, Melaka",0.5,14,16,70,0,0.001,0.05,0.9,900,2.78,159,155.02,22.4,Nan
+"Kuala Perlis, Perlis",0.5,37,33,30,0,0,0,0.018,Nan,Nan,5.51,4.14,11.21,Nan
+"Cameron Highland, Pahang",0.5,3,11,86,0,0.01,0.074,0.1,10,5.48,176.3,324.77,22.63,Nan
+"Pulau Indah, Selangor",0.5,0,0,100,0,0.16,0.21,0.27,1.69,1.02,3500,2493.18,3.36,Nan
+"Pekan, Pahang",1,39,39,22,0,0,0,0.036,Nan,Nan,8.02,24.24,57.34,Nan
+"Damansara, Kuala Lumpur",1,28,17,55,0,0,0.05,1.1,Nan,Nan,Nan,1593.44,Nan,Nan
+"Selayang, Selangor",0.5,18,7.96,74.04,0,0,0.01,0.26,Nan,Nan,60.54,55.4,20.86,SC
+"Parit, Perak",0.5,15,27.77,57.23,0,0,0.01,0.06,Nan,Nan,438.8,527.19,28.18,SM
+"Klang, Selangor",1,30,10,60,0,0,0,0.14,Nan,Nan,83.36,248.02,29.31,Nan
+"Sungkai, Perak",0.5,18,44,38,0,0,0.01,0.04,Nan,Nan,386.3,489.55,24.96,Nan
+"Cyberjaya, Selangor",0.5,18,12,70,0,0,0.03,0.4,Nan,Nan,130,64.17,23.23,Nan
+"Bandar Puteri Jaya, Kedah",0.5,20,25,55,0,0,0.01,0.5,Nan,Nan,34.1,4.59,22.16,Nan
+"Marang, Terengganu",1,4,26,70,0,0.009,0.05,0.23,25.56,1.21,Nan,Nan,Nan,Nan
+"Muar, Johor",0.5,10,85,5,0,0.002,0,0.01,3,1.33,818,1910.48,36.11,Nan
+"Tronoh, Perak​",0.5,14.53,5.47,80,0,0,0.06,0.18,Nan,Nan,834.5,527.39,27.35,SC
