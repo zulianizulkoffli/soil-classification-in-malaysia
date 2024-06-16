@@ -10,8 +10,9 @@ import pandas as pd
 import folium
 from streamlit_folium import folium_static
 
-# Load your dataset
-data = pd.read_csv(r"C:\Users\zzulk\Downloads\(2) GeoTech_HJ\New Folder\location_data1.csv")
+# Load your dataset from the raw GitHub URL
+data_url = "https://raw.githubusercontent.com/zulianizulkoffli/soil-classification-in-malaysia/master/location_data1.csv"
+data = pd.read_csv(data_url)
 
 # Adjust the DataFrame index to start from 1 instead of 0
 data.index = data.index + 1
